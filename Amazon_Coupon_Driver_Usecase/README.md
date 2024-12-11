@@ -3,8 +3,9 @@
 **Overview**
 
 The goal of this project is to use what you know about visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those who did not.
+
 Scenario #1: Customers who accept the bar coupons based on age, occupation, frequency of their visits.  
-Scenraio #2: Customers who accept the Coffee House coupons based on age, occupation, frequency of their visits. 
+Scenario #2: Customers who accept the Coffee House coupons based on age, occupation, frequency of their visits. 
 
 **Data**
 
